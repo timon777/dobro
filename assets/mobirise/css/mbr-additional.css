@@ -1993,46 +1993,6 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-ruq3bUht42 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-ruq3bUht42 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-ruq3bUht42 .media-row {
-  display: -webkit-flex;
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-ruq3bUht42 .team-item {
-  transition: all .2s;
-  margin-bottom: 2rem;
-}
-.cid-ruq3bUht42 .team-item .item-image img {
-  width: 100%;
-}
-.cid-ruq3bUht42 .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-ruq3bUht42 .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-ruq3bUht42 .team-item .item-social {
-  display: -webkit-flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  -webkit-justify-content: center;
-}
-.cid-ruq3bUht42 .team-item .item-social .socicon {
-  color: #232323;
-  font-size: 17px;
-}
-.cid-ruq3bUht42 .team-item .item-caption {
-  background: #efefef;
-}
 .cid-ruq38XKyzn {
   padding-top: 60px;
   padding-bottom: 60px;
